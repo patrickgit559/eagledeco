@@ -1,0 +1,203 @@
+CAHIER DES CHARGES – SITE WEB EAGLE DECO
+
+## 1. PRÉSENTATION DU PROJET
+
+### 1.1 Nom du projet
+Création du site web de l’entreprise EAGLE DECO
+
+### 1.2 Contexte
+EAGLE DECO est une entreprise spécialisée dans les travaux de peinture et décoration bâtiment. Elle souhaite se doter d’un site web professionnel pour améliorer sa visibilité et attirer de nouveaux clients.
+
+### 1.3 Objectifs
+- Présenter les services de l’entreprise
+- Valoriser l’image professionnelle
+- Générer des demandes de devis
+- Faciliter la prise de contact
+
+---
+
+## 2. CIBLE
+- Particuliers (propriétaires de maisons)
+- Entreprises
+- Promoteurs immobiliers
+- Clients situés en Côte d’Ivoire (principalement Abidjan)
+
+---
+
+## 3. ARBORESCENCE DU SITE
+
+- Accueil
+- À propos
+- Services
+- Pourquoi nous choisir
+- Contact
+
+---
+
+## 4. DESCRIPTION DÉTAILLÉE DES PAGES
+
+### 4.1 Page Accueil
+Contenu :
+- Logo (à intégrer)
+- Nom : EAGLE DECO
+- Slogan : Des services de qualité auxquels vous pouvez faire confiance
+- Image de bannière (chantier / peinture)
+- Bouton CTA : "Demander un devis"
+
+Fonctionnalités :
+- Bouton redirige vers la section contact ou WhatsApp
+
+---
+
+### 4.2 Page À propos
+Titre : Notre mission
+
+Contenu :
+Nous croyons en la construction avec un objectif, où chaque peinture posée et chaque poutre hissée fait partie d’une mission plus vaste visant à créer non seulement des structures, mais des solutions.
+
+Objectif :
+- Présenter la vision de l’entreprise
+- Inspirer confiance
+
+---
+
+### 4.3 Page Services
+Titre : Nos prestations & services
+
+Liste :
+- Peinture bâtiment
+- Peinture décorative
+- Enduit
+- Staff
+- Stuc
+- Placoplâtre
+- Papier peint
+- Peinture antigriffes
+
+Fonctionnalités :
+- Possibilité d’ajouter des images pour chaque service
+- Mise en page en grille
+
+---
+
+### 4.4 Page Pourquoi nous choisir
+Titre : Pourquoi nous choisir ?
+
+Contenu :
+Notre engagement envers la sécurité, la qualité et la satisfaction client nous distingue. Nous accordons une grande importance à la communication tout au long du processus.
+
+Objectif :
+- Mettre en avant les avantages concurrentiels
+
+---
+
+### 4.5 Page Contact
+Informations :
+- Téléphone : +225 05 74 45 52 07
+- Email : eagledeco24@gmail.com
+- Localisation : Yopougon Millionnaire
+
+Fonctionnalités :
+- Formulaire de contact (Nom, Téléphone, Message)
+- Bouton WhatsApp
+- Carte Google Maps (optionnel)
+
+---
+
+## 5. CHARTE GRAPHIQUE
+
+### 5.1 Couleurs
+- Bleu : #1F4E79 (principal)
+- Orange : #F57C00 (accent)
+- Blanc : #FFFFFF (fond)
+- Gris : #333333 (texte)
+
+### 5.2 Typographie
+- Titres : Arial / Montserrat
+- Texte : Arial / Open Sans
+
+### 5.3 Style
+- Moderne et professionnel
+- Interface claire et lisible
+- Utilisation d’icônes
+
+---
+
+## 6. FONCTIONNALITÉS TECHNIQUES
+
+- Site responsive (mobile, tablette, ordinateur)
+- Chargement rapide
+- SEO de base (balises title, meta description)
+- Intégration WhatsApp (contact rapide)
+- Formulaire fonctionnel
+- Sécurité (HTTPS recommandé)
+
+---
+
+## 7. TECHNOLOGIES RECOMMANDÉES
+
+Option 1 :
+- HTML / CSS / JavaScript
+
+Option 2 :
+- WordPress (avec thème professionnel)
+
+Option 3 :
+- Framework (React, Vue) – option avancée
+
+---
+
+## 8. RÉFÉRENCEMENT (SEO)
+
+- Mots-clés :
+  peinture bâtiment Abidjan  
+  décoration murale Côte d’Ivoire  
+  entreprise peinture Yopougon  
+
+- Optimisation :
+  - Balises H1, H2
+  - Images optimisées
+  - Texte clair et structuré
+
+---
+
+## 9. HÉBERGEMENT ET DOMAINE
+
+- Nom de domaine recommandé :
+  eagledeco.ci
+
+- Hébergement :
+  - Hostinger
+  - OVH
+  - ou autre
+
+---
+
+## 10. DÉLAIS
+
+- Conception : 3 à 5 jours
+- Développement : 5 à 10 jours
+- Mise en ligne : 1 jour
+
+---
+
+## 11. LIVRABLES
+
+- Site web fonctionnel
+- Code source
+- Accès administrateur (si CMS)
+- Guide d’utilisation
+
+---
+
+## 12. MESSAGE PROMOTIONNEL
+
+C’est bientôt la saison des pluies, soignez vos murs pour garantir votre confort avec EAGLE DECO.
+
+---
+
+## 13. ÉVOLUTIONS FUTURES
+
+- Galerie de réalisations
+- Témoignages clients
+- Blog

@@ -1,0 +1,14 @@
+{
+  "name": "eagle-deco",
+  "version": "1.0.0",
+  "description": "Site web EAGLE DECO - Peinture & Décoration Abidjan",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "npx vercel --prod"
+  },
+  "keywords": ["peinture", "decoration", "abidjan", "cote-d-ivoire"],
+  "author": "EAGLE DECO",
+  "license": "MIT"
+}
